@@ -1,0 +1,8 @@
+.cart i{
+    text-decoration: none;
+    color: #000000;
+}
+.menu-cart{
+    display: flex;
+    justify-content: end;
+}

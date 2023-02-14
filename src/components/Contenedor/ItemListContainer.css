@@ -1,0 +1,7 @@
+.titulo-principal{
+    font-size: 2.5em;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(244, 144, 244);
+    margin-top: 20px;
+}
